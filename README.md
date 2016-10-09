@@ -18,7 +18,7 @@ Contributions welcome; Please submit all pull requests against the master branch
 
 ## Author
 
-Tyler Lim <tylerjsc@gmail.com> https://github.com/tylerlim
+Tyler Lim <tylerjsc@gmail.com>, https://github.com/tylerlim
 
 ## License
 
