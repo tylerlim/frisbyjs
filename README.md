@@ -1,8 +1,6 @@
 ## frisbyjs
 Use to test Rest API
 
-![npm](https://img.shields.io/npm/v/node-readme.svg) ![license](https://img.shields.io/npm/l/node-readme.svg) ![github-issues](https://img.shields.io/github/issues/revolunet/node-readme.svg)  ![Circle CI build status](https://circleci.com/gh/revolunet/node-readme.svg?style=svg)
-
 ## Install
 1. npm install
 2. npm install --save-dev frisby
