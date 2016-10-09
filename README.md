@@ -9,8 +9,8 @@ Use to test Rest API
 5. jasmine-node test/
 
 ## Dependencies
-> [frisbyjs](http://frisbyjs.com)
-> [jasmine-node](https://github.com/mhevery/jasmine-node)
+- [frisbyjs](http://frisbyjs.com)
+- [jasmine-node](https://github.com/mhevery/jasmine-node)
 
 ## Contributing
 
